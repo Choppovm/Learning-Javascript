@@ -4,3 +4,7 @@ Self-taught using [freeCodeCamp.org's tutorial](https://www.youtube.com/watch?v=
 
 ## Progress
 Last got up to 21:20
+
+## Notes
+Not every single step is going to be outlined here.
+Some steps will be merged with other files.
