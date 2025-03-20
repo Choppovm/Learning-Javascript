@@ -111,4 +111,4 @@ console.log(testGreaterOrEqual(10));
 
 //---------------------------------------//
 
-// 
+// Comparison with the Less Than Operator
