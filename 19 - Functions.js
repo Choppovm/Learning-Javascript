@@ -114,3 +114,16 @@ function processArg(num) {
 }
 
 processed = processArg(7);
+
+//---------------------------------------//
+
+// Comparison with the Equality Operator
+
+function testStrict(val) {
+  if (val === 7) {
+    return "Equal";
+  }
+  return "Not Equal";
+}
+
+console.log(testStrict(10));
